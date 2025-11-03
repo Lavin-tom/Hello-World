@@ -66,7 +66,7 @@ Feel free to contribute and add "Hello, World!" examples in different programmin
 |[Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ruby)|
 |[Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Rust)|
 |[Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Scheme)|
-|Skip|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Skip)|
+|Skip|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/skip)|
 |[SQL](https://en.wikipedia.org/wiki/SQL)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/SQL)|
 |[Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Swift)|
 |[Unicon](https://en.wikipedia.org/wiki/Verilog)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Unicon)|
